@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @keamien
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning React/JS/Spring
+- 🌱 I’m currently working as a Software Engineer for BluJay Solutions
 - 💞️ I’m looking to collaborate on anything web related
-- 📫 How to reach me - don't. At least not yet.
+- 📫 How to reach me - jontroach at gmail dot com
 
 <!---
 keamien/keamien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
